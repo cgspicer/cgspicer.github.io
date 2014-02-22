@@ -1,4 +1,10 @@
-cgspicer.github.io
-==================
+HTML5 Muffin chocchip steps
+============================
 
-Personal site
+Run bundle install
+
+	bundle install
+
+Run jekyll
+
+	jekyll
